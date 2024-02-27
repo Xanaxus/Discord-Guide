@@ -7,7 +7,7 @@ Welcome to the world of Discord moderation! As a first-time moderator, you play 
 * Creating a Discord Server
 
 1. **Log in to Discord:**
-   - Visit [Discord](https://discord.com/) and log in with your account.
+   - Visit [[https://discord.com/][Discord]] and log in with your account.
 
 2. **Create a Server:**
    - Click the '+' button on the left sidebar.
@@ -90,19 +90,19 @@ My recommendation is to use the discords in-buit moderation tools [[https://supp
 2. [[https://sapph.xyz/][Sapphire]]
 some of the other recomendations are the following that you might want to checkout.
 ** Dyno
-- **Invite Link:** [Dyno Bot](https://dyno.gg/invite)
+- **Invite Link:** [[https://dyno.gg/invite][Dyno Bot]]
 - **Features:**
   - Moderation commands (kick, ban, etc.).
   - Auto-moderation settings.
   - Customizable welcome
 ** MEE6
-- **Invite Link:** [MEE6 Bot](https://mee6.xyz/invite)
+- **Invite Link:**  [[https://mee6.xyz/invite][MEE6 Bot]]
 - **Features:**
   - Moderation tools and automations.
   - Leveling system for members.
   - Customizable
 ** Carl-bot
-- **Invite Link:** [Carl-bot](https://carl.gg/)
+- **Invite Link:** [[https://carl.gg/][Carl-bot]]
 - **Features:**
   - Moderation and logging.
   - Reaction roles.
