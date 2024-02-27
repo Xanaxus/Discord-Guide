@@ -1,0 +1,113 @@
+#+TITLE: Guide to Creating a Discord Server for First-Time Moderators
+
+* Introduction
+
+Welcome to the world of Discord moderation! As a first-time moderator, you play a crucial role in maintaining a positive and enjoyable environment for the members of your server. This guide will walk you through the process of creating a Discord server and introduce you to some essential moderation bots.
+
+* Creating a Discord Server
+
+1. **Log in to Discord:**
+   - Visit [Discord](https://discord.com/) and log in with your account.
+
+2. **Create a Server:**
+   - Click the '+' button on the left sidebar.
+   - Choose "Create My Own" and follow the prompts to set up your server.
+
+3. **Server Name and Icon:**
+   - Give your server a name and upload an icon to make it visually appealing.
+
+4. **Invite Friends:**
+   - Invite friends or skip this step to invite them later.
+
+* Categories Creations
+ Catregories are liken to the city blocks. So these categories house the [[*Setting Up Channels][channels]] with a similar usecase. As this will lead to better navigation of the server and also ensure that all the channel in the category can have the same rules; it dosent have to be but thats how I do it. 
+ 
+*+ Channel Categories:*
+   - Right-click on a channel and select "Create Category."
+     - also if you want to make a category only for certain ppl (or for cretain roles) then toggle the Private Category toggle.
+   - Organize channels into categories for better navigation.
+     
+* Setting Up Channels
+before jumping to create a channel know that these channels are like mini-chat-room within a server, curating to a specific topics. These topic are usually self evident in the name of the channel, so keep in mind that the name of the channel should reflect the purpose of the channel. You have an option to privatise the channel only like the way we do in the [[*Categories Creations][Categories]].
+
+And know that there are different types of channels that have differnt use-cases:
+1. Text
+   + this is like normal group chats that you have in the whatsapp and signal.
+2. Voice
+   + this can be used for video and voice calls over in this channel you can also share the screen of your laptop (PS. dont share your screen for streaming OTT platforms as this may result in your account getting banned)
+   + there are inbuilt activities from discord that you can use for livening up the conversation.
+   + Limits to know of the
+     + User Limit: Each voice channel can accommodate a certain number of users. The default user limit for a voice channel is 99
+     + Bitrate Limit: The audio quality in a voice channel is determined by the bitrate. Discord allows different bitrate limits depending on the server's boost
+       - Free Server: 64 kbps maximum
+       - Server Boost Level 1: 96 kbps maximum
+       - Server Boost Level 2: 128 kbps maximum
+       - Server Boost Level 3: 256 kbps maximum bitrate.
+         
+3. Forum
+   + these channel are usually used for various purposes, offering a structured and organized way for community members to engage in conversations. Eg:
+     + Event Planning:
+     + Feedback and Suggestions
+     + Topic-Specific Discussions
+       
+4. Annoucement
+   + Announcement channels typically have restricted posting access to ensure that only authorized individuals (such as administrators or moderators) can make announcements. This helps maintain the integrity and reliability of the information being communicated.
+   + The following are the reason why and where an announcement channels should be used:
+     1. *Important Updates:* Announcement channels are commonly used to communicate critical information and important updates to all members of the server. Server administrators or moderators can make announcements regarding changes in rules, upcoming events, or any other important news.
+     2. *Server-wide Notifications:* Announcement channels allow administrators to send notifications to all members simultaneously. This is especially useful for ensuring that important messages reach the entire community, regardless of whether members are online or offline.
+     3. *Event Announcements:* Servers often use announcement channels to publicize and provide details about upcoming events, such as game nights, contests, or community meet-ups. This ensures that members are aware of and can participate in scheduled activities.
+     4. *Policy Changes:* When there are changes in server policies or guidelines, announcement channels are a suitable platform to convey these modifications. This helps maintain transparency and ensures that all members are aware of the latest rules.
+     5. *Acknowledgments and Appreciations:* Servers may use announcement channels to express gratitude, acknowledge milestones, or appreciate contributions from members. This can foster a positive and supportive community environment.
+     6. *New Feature Introductions:* If a server introduces new features, bots, or channels, announcement channels are a great way to inform members about these additions. This helps in keeping everyone informed and engaged.
+     7. *Emergency Announcements:* In case of emergencies or urgent server-related matters, announcement channels allow administrators to communicate quickly and effectively with the entire community.
+     8. *Collaboration and Partnerships:* If the server collaborates with other communities or establishes partnerships, announcement channels can be used to make these announcements and share relevant information.
+     9. *Server Birthdays or Milestones:* Announcement channels are ideal for celebrating server anniversaries, birthdays, or other significant milestones. This can create a sense of unity and pride within the community.
+     10. *Scheduled Downtime or Maintenance:* If the server needs to undergo maintenance or there will be scheduled downtime, administrators can use announcement channels to inform members in advance, reducing confusion and frustration.
+         
+5. Stage
+   * Stage channels are a relatively new feature on Discord that serves a specific purpose within a server. Here's an overview of what stage channels are used for:
+     1. *Structured Discussions:* Stage channels are designed for structured and moderated discussions, similar to panel discussions or live events. They provide a platform for hosting conversations in a controlled and organized manner.
+     2. *Speaker and Audience Interaction:* In stage channels, there is a clear distinction between speakers and audience members. Speakers have the ability to join the "stage" and participate in the conversation, while audience members can listen to the discussion and may have limited interaction options.
+     3. *Panel Discussions and Q&A Sessions:* Stage channels are well-suited for hosting panel discussions, interviews, Q&A sessions, or other similar events where there is a designated group of speakers addressing an audience. This format allows for focused and engaging interactions.
+
+** **Create Channels:**
+   - Go to your server.
+   - Click the '+' next to "Text Channels" or "Voice Channels" to create channels.
+
+
+* Roles and Permissions
+1. **Create Roles:**
+   - Go to Server Settings > Roles > '+.'
+   - Assign roles like "Admin," "Moderator," and "Member."
+
+2. **Assign Permissions:**
+   - Customize permissions for each role to control access.
+   - Be mindful of the "Administrator" permission.
+
+* Moderation Bots
+My recommendation is to use the discords in-buit moderation tools [[https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ][Auto-Mod]] and to only use the third-party bots only when neccessary. The third-party bots that I recmend along with the auto-mod is the following:
+1. [[https://discohook.org/][Dischook]]
+2. [[https://sapph.xyz/][Sapphire]]
+some of the other recomendations are the following that you might want to checkout.
+** Dyno
+- **Invite Link:** [Dyno Bot](https://dyno.gg/invite)
+- **Features:**
+  - Moderation commands (kick, ban, etc.).
+  - Auto-moderation settings.
+  - Customizable welcome
+** MEE6
+- **Invite Link:** [MEE6 Bot](https://mee6.xyz/invite)
+- **Features:**
+  - Moderation tools and automations.
+  - Leveling system for members.
+  - Customizable
+** Carl-bot
+- **Invite Link:** [Carl-bot](https://carl.gg/)
+- **Features:**
+  - Moderation and logging.
+  - Reaction roles.
+  - Custom
+for more bots checkout the [[https://discord.com/application-directory][app directory]]. 
+* Conclusion
+Congratulations! Your Discord server is now set up, and you have moderation bots to help manage it effectively. Remember to adapt these settings based on your server's needs and enjoy building a thriving community
+
